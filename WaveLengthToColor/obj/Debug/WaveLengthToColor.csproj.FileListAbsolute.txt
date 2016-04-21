@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\bin\Debug\WaveLengthToColor.exe
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\bin\Debug\WaveLengthToColor.pdb
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.g.resources
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.exe
+E:\Dropbox\!Coding\All_in_one\WaveLengthToColor\WaveLengthToColor\obj\Debug\WaveLengthToColor.pdb
